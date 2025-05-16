@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rishikesh-004
-- 👀 I’m interested in Web Dev.. atleast for now 
+- 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning Full Stack Web Development 
 - 💞️ I’m looking to collaborate on Github for some amazing project  
 - 📫 How to reach me: email me @rishikeshroshankatta@gmail.com  
